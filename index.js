@@ -128,4 +128,4 @@ client.on("message", async message => {
 
 });
 
-client.login("NDY0MTMwOTkyMjExMzYxNzky.Dh6fMA.p1LV8PtEOUzfllYhaGKv3P656J4");
+client.login("Secret-code-101");
